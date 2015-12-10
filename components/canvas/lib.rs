@@ -3,8 +3,8 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 #![feature(core)]
+#![feature(clone_from_slice)]
 #![feature(nonzero)]
-#![feature(slice_bytes)]
 #![feature(vec_push_all)]
 #![feature(plugin)]
 #![plugin(plugins)]
